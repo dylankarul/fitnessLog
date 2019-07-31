@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Body>
+
+
+    <Weights/>
+
+    <Gender>MALE</Gender>
+
+    <BMIs>
+    <Entry><BMI>21.4</BMI><date>today</date></Entry><Entry><BMI>23.0</BMI><date>tomorrow</date></Entry></BMIs>
+
+    <BFPs>
+    </BFPs>
+
+    <Heights>
+    </Heights>
+
+    <Measurements>
+        <Neck>30.0</Neck>
+        <Abdomen>66.3</Abdomen>
+        <Hips>
+        </Hips>
+        <Waist>
+        </Waist>
+    </Measurements>
+</Body>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<Body>
+
+
+    <Weights></Weights>
+
+
+    <Gender></Gender>
+
+    <BMIs>
+    </BMIs>
+
+    <BFPs>
+    </BFPs>
+
+    <Heights>
+    </Heights>
+
+    <Measurements>
+        <Neck>
+        </Neck>
+        <Abdomen>
+        </Abdomen>
+        <Hips>
+        </Hips>
+        <Waist>
+        </Waist>
+    </Measurements>
+</Body>
